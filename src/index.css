@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Be Vietnam Pro", system-ui, -apple-system, sans-serif;
+  --color-heritage-red: #8F2724;
+  --color-heritage-red-hover: #751F1C;
+  --color-heritage-gold: #C5A36B;
+  --color-heritage-gold-light: #E0C79A;
+  --color-heritage-cream: #F8F4EA;
+  --color-heritage-green: #183E3A;
+  --color-heritage-ink: #292623;
+  --color-heritage-muted: #746C61;
+  --color-heritage-border: #E7DED0;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: var(--font-serif);
+  }
+}
+
+/* Print Styles for Heritage Comparison export */
+@media print {
+  header, footer, .no-print {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .print-full-width {
+    max-width: 100% !important;
+    box-shadow: none !important;
+    border: 1px solid #ccc !important;
+  }
+}

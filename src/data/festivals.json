@@ -1,0 +1,110 @@
+
+[
+  {
+    "id": "F001",
+    "officialName": "Lễ hội bơi, đua thuyền truyền thống trên sông Kiến Giang",
+    "alternativeNames": [
+      "Lễ hội đua, bơi thuyền trên sông Kiến Giang"
+    ],
+    "practiceGroup": "Lễ hội đua thuyền truyền thống",
+    "province": "Quảng Bình (địa danh lịch sử; nay thuộc tỉnh Quảng Trị)",
+    "location": "Sông Kiến Giang, khu vực Lệ Thủy",
+    "community": "Cộng đồng cư dân vùng Lệ Thủy",
+    "culturalContext": "Lễ hội bơi, đua thuyền truyền thống trên sông Kiến Giang được tổ chức thường niên vào dịp Tết Độc lập 2/9. Đây là hoạt động văn hóa cộng đồng gắn với truyền thống địa phương, tinh thần đoàn kết và việc kỷ niệm Quốc khánh.",
+    "origin": null,
+    "rituals": [],
+    "activities": [
+      "Bơi thuyền truyền thống dành cho các đội nam",
+      "Đua thuyền truyền thống dành cho các đội nữ",
+      "Tổ chức thi đấu và cổ vũ trên sông Kiến Giang"
+    ],
+    "characteristics": [
+      "Gắn với dịp Quốc khánh 2/9",
+      "Không gian thực hành trên sông Kiến Giang",
+      "Có nội dung thi đấu riêng cho đội nam và đội nữ",
+      "Mang tính cộng đồng và duy trì truyền thống địa phương"
+    ],
+    "heritageStatus": null,
+    "sourceIds": [
+      "S02",
+      "S03",
+      "S07",
+      "S08",
+      "S10"
+    ],
+    "verificationStatus": "pending",
+    "imageIds": [],
+    "createdAt": "2026-11-12",
+    "updatedAt": "2026-11-12",
+    "contentCheckedAgainstOriginal": false,
+    "adminReviewNotes": "Đã bổ sung thông tin từ tư liệu về lễ hội năm 2026. S02 có trạng thái verified trong kho; S03, S07, S08 và S10 cần tiếp tục thẩm định. Chưa xác minh toàn bộ nội dung, nguồn gốc và tình trạng ghi danh di sản. Các số liệu thi đấu năm 2026 cần lưu riêng trong FestivalEdition khi xây dựng dữ liệu kỳ tổ chức."
+  },
+  {
+    "id": "F002",
+    "officialName": "Lễ hội đua ghe Ngo của người Khmer",
+    "alternativeNames": [
+      "Đua ghe Ngo trong lễ hội Oóc Om Bóc",
+      "Hội đua ghe Ngo của người Khmer"
+    ],
+    "practiceGroup": "Lễ hội đua thuyền truyền thống",
+    "province": "Sóc Trăng (địa danh lịch sử; nay thuộc thành phố Cần Thơ)",
+    "location": "Khu vực Sóc Trăng, đồng bằng sông Cửu Long",
+    "community": "Cộng đồng người Khmer",
+    "culturalContext": "Đua ghe Ngo là thực hành văn hóa truyền thống gắn với lễ hội Oóc Om Bóc của người Khmer. Hoạt động thể hiện tín ngưỡng liên quan đến tự nhiên, ước vọng mưa thuận gió hòa, mùa màng tốt tươi và tinh thần đoàn kết cộng đồng. Các cuộc đua được tổ chức với sự tham gia của các đội ghe và đông đảo người cổ vũ.",
+    "origin": "Chưa xác định chắc chắn thời điểm hình thành. Tư liệu của Cục Di sản văn hóa ghi nhận nhiều truyền thuyết dân gian liên quan đến lễ hội Oóc Om Bóc và tục đua ghe Ngo.",
+    "rituals": [
+      "Lễ cúng Trăng trong dịp Oóc Om Bóc",
+      "Nghi lễ hạ thủy ghe Ngo trước cuộc đua",
+      "Nghi lễ cầu bình an và thuận lợi cho đội ghe",
+      "Lễ xuất quân của đội đua"
+    ],
+    "activities": [
+      "Đua ghe Ngo truyền thống",
+      "Tập luyện và chuẩn bị ghe trước hội đua",
+      "Cổ vũ các đội ghe của cộng đồng",
+      "Các hoạt động văn hóa gắn với lễ hội Oóc Om Bóc"
+    ],
+    "characteristics": [
+      "Ghe Ngo có thân dài, thon và hai đầu cong",
+      "Hoa văn trang trí ghe có thể gắn với hình tượng rắn Naga",
+      "Các tay bơi phối hợp nhịp nhàng theo hiệu lệnh",
+      "Ghe Ngo có ý nghĩa thiêng trong đời sống văn hóa Khmer",
+      "Đua ghe gắn với sinh hoạt cộng đồng và không gian chùa Khmer"
+    ],
+    "heritageStatus": "Di sản văn hóa phi vật thể quốc gia, theo Quyết định số 74/QĐ-BVHTTDL ngày 12/01/2022 (địa bàn ghi danh: tỉnh Sóc Trăng tại thời điểm ban hành).",
+    "sourceIds": [
+      "S01",
+      "S04",
+      "S05",
+      "S09"
+    ],
+    "verificationStatus": "pending",
+    "imageIds": [],
+    "createdAt": "2026-11-12",
+    "updatedAt": "2026-11-12",
+    "contentCheckedAgainstOriginal": false,
+    "adminReviewNotes": "Đã bổ sung mô tả dựa trên tư liệu Cục Di sản văn hóa và bài viết về giải đua năm 2024. S01 và S04 có trạng thái verified trong kho; S05 và S09 vẫn pending. Cần kiểm tra tính phù hợp của từng nguồn đối với từng trường nội dung trước khi phê duyệt hồ sơ."
+  },
+  {
+    "id": "F003",
+    "officialName": "Lễ hội đua thuyền truyền thống – Triệu Phong",
+    "alternativeNames": [],
+    "practiceGroup": "Lễ hội đua thuyền truyền thống",
+    "province": "Quảng Trị",
+    "location": "Triệu Phong",
+    "community": "Chưa có tư liệu kiểm chứng",
+    "culturalContext": "Chưa có tư liệu kiểm chứng",
+    "origin": null,
+    "rituals": [],
+    "activities": [],
+    "characteristics": [],
+    "heritageStatus": null,
+    "sourceIds": [],
+    "verificationStatus": "pending",
+    "imageIds": [],
+    "createdAt": "2026-11-12",
+    "updatedAt": "2026-11-12",
+    "contentCheckedAgainstOriginal": false,
+    "adminReviewNotes": "Hồ sơ ứng viên chưa có nguồn được xác nhận trực tiếp cho địa bàn Triệu Phong. Cần bổ sung tối thiểu 3 nguồn phù hợp."
+  }
+]

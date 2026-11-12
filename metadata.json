@@ -1,0 +1,6 @@
+{
+  "name": "HỘI SẮC VIỆT",
+  "description": "Một dòng sông – Muôn sắc hội. Bảo tàng số di sản tra cứu, đối sánh thực hành lễ hội đua thuyền truyền thống tại các địa phương Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

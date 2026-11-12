@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": "E001",
+    "festivalId": "F001",
+    "year": 2024,
+    "lunarDate": null,
+    "solarStartDate": "2024-09-02",
+    "solarEndDate": "2024-09-02",
+    "venue": "Sông Kiến Giang, Lệ Thủy, Quảng Bình (địa danh tại thời điểm tổ chức)",
+    "notes": "Kỳ lễ hội năm 2024 gắn với dịp Tết Độc lập. Cần đối chiếu lại ngày thi đấu và nội dung cụ thể trong S02.",
+    "sourceIds": ["S02"],
+    "verificationStatus": "pending"
+  },
+  {
+    "id": "E002",
+    "festivalId": "F001",
+    "year": 2026,
+    "lunarDate": null,
+    "solarStartDate": "2026-09-02",
+    "solarEndDate": "2026-09-02",
+    "venue": "Sông Kiến Giang, khu vực Lệ Thủy, tỉnh Quảng Trị",
+    "notes": "Theo thông tin được ghi nhận trong nguồn S08, lễ hội năm 2026 có 29 đội thuyền tham gia, gồm 21 đội nam và 8 đội nữ. Cần thẩm định số liệu với bài viết gốc.",
+    "sourceIds": ["S08", "S10"],
+    "verificationStatus": "pending"
+  },
+  {
+    "id": "E003",
+    "festivalId": "F002",
+    "year": 2015,
+    "lunarDate": null,
+    "solarStartDate": "2015-11-23",
+    "solarEndDate": "2015-11-25",
+    "venue": "Sóc Trăng (địa danh tại thời điểm tổ chức)",
+    "notes": "Lễ hội Đua ghe Ngo Sóc Trăng lần thứ II, gắn với dịp Oóc Om Bóc. Khoảng thời gian dự kiến theo thông tin tổ chức trong S04; cần phân biệt lịch toàn lễ hội với ngày thi đấu ghe Ngo.",
+    "sourceIds": ["S04"],
+    "verificationStatus": "pending"
+  },
+  {
+    "id": "E004",
+    "festivalId": "F002",
+    "year": 2024,
+    "lunarDate": null,
+    "solarStartDate": null,
+    "solarEndDate": null,
+    "venue": "Sóc Trăng (địa danh tại thời điểm tổ chức)",
+    "notes": "Kỳ đua ghe Ngo trong khuôn khổ lễ hội Oóc Om Bóc năm 2024. Nguồn S09 ghi nhận hoạt động thi đấu; cần xác minh đầy đủ ngày bắt đầu và kết thúc trước khi nhập.",
+    "sourceIds": ["S09"],
+    "verificationStatus": "pending"
+  }
+]
